@@ -1,0 +1,58 @@
+Apple id -Appleidpassword123
+Github -Githubpassword#123
+Ktupassword#123
+Instapassword#123
+Email id renukakamath2@gmail.com
+Password, - renukakamath#123
+Renukakamath 
+Swayampassword#123
+renukakamath 
+Githubpassword#123
+
+
+Portfolio contact us :
+https://docs.google.com/spreadsheets/d/1_fSQjV1UPgyBb6gEw6_f7IgqRDL3Dq3UJkhuHO95-_4/edit?gid=0#gid=0
+
+Image uploading
+cloudinary.com 
+
+
+android studio old version
+
+https://developer.android.com/studio/archive
+
+
+
+block chain 
+https://drive.google.com/drive/folders/1OKRN013wQ0w4SxBAjHYgKdqicfFozQpn?usp=share_link
+
+node
+https://drive.google.com/file/d/1lGWf8cmJ8v3_VlUQgRT9lEeNRHBSzEuv/view?usp=drive_link
+
+visual studio
+https://drive.google.com/file/d/1dyVffpp5h1yo65xDbA2tt0JUp-gm_VSU/view?usp=drive_link 
+
+
+
+
+Git hub
+
+Git init 
+Git add .
+Git  commit -m “adding files”
+⭐Create new repository 
+Copy the path
+Git remote add projectname  https://github.com/renukakamath/camp-guiding.git
+Git  push projectname master
+
+
+https://youtu.be/-7_OMq6x22A?si=wmSKQKZpkQm8tToa
+
+Git hub large file uploading
+
+
+Pip install qrcode==2.0
+Pip install image
+
+
+https://play.google.com/store/apps/details?id=com.google.zxing.client.android&pcampaignid=web_share
